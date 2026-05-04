@@ -1,0 +1,25 @@
+# BLAST binaries
+ncbi-blast-2.17.0+/
+ncbi-blast-2.17.0+-x64-macosx.tar.gz
+
+# Large sequencing files
+microbiome_data/SRR33766029.fastq
+microbiome_data/reads.fasta
+microbiome_data/rohu_genome.gff
+microbiome_data/assembly/
+
+# BLAST database binary files
+rohu_db.*
+
+# Word docs
+*.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
